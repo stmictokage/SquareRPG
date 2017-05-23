@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/zono.unity
+  isLoaded: 1
+  isActive: 1
